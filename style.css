@@ -1,0 +1,56 @@
+.month{
+    display: inline-block;
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+    width: 320px;
+}
+.daymonth{
+    display: inline-block;
+    width: 30px;
+    padding: 10px 0px 10px 15px;
+    font-weight: bold;
+    color: brown
+}
+.February{
+    display: inline-block;
+    width: 30px;
+    border: 3px solid rgb(71, 134, 76);
+    border-radius: 10px;
+    padding: 10px 0px 10px 15px;
+    margin: 0px -5px -1px 0px;
+    color: black;
+    background-color: gold;
+}
+.relaxation{
+    display: inline-block;
+    width: 30px;
+    border: 3px solid rgb(71, 134, 76);
+    border-radius: 10px;
+    padding: 10px 0px 10px 15px;
+    margin: 0px -5px -1px 0px;
+    color: rgb(105, 53, 228);
+    background: rgb(227, 245, 191);
+    font-weight: bold;
+}
+.month03{
+    display: inline-block;
+    width: 30px;
+    border: 3px solid rgb(71, 134, 76);
+    border-radius: 10px;
+    padding: 10px 0px 10px 15px;
+    margin: 0px -5px -1px 0px;
+    color: rgb(199, 195, 195);
+    font-style: initial; 
+}
+.today{
+    display: inline-block;
+    width: 30px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px 0px 10px 15px;
+    margin: 0px -5px -1px 0px;
+    color: rgb(243, 121, 21);
+    font-weight: bold;
+    background-color: rgb(238, 241, 62)
+}
